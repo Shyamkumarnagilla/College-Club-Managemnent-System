@@ -7,9 +7,9 @@ Key Features:
 Club Management, Member Management, Event Management and Communication Tools.
 
 Technical Details:
-Programming Language: Java
-Development Environment: Intellij IDEA
-Database: MySQL
+Programming Language: Java | 
+Development Environment: Intellij IDEA | 
+Database: MySQL | 
 Design Patterns: Model-View-Controller (MVC)
 
 Contributions:
